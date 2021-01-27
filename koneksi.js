@@ -4,7 +4,7 @@ var mysql = require('mysql');
 const conn = mysql.createConnection({
     host: '202.52.146.108',
     user: 'matarian_devel',
-    password: '',
+    password: 'CahayaMatahari01',
     database: 'matarian_unit'
 });
 
